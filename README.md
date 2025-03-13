@@ -1,12 +1,8 @@
-![Moox Skeleton](https://github.com/mooxphp/moox/raw/main/art/banner/skeleton.jpg)
+![Moox clipboard](https://github.com/mooxphp/moox/raw/main/art/banner/clipboard.jpg)
 
-# Moox Skeleton
+# Moox clipboard
 
-<!--shortdesc-->
-
-This template is used for generating Laravel packages, all Moox packages are built with this template. Press the Template-Button in GitHub, create your own Laravel package.
-
-<!--/shortdesc-->
+Filament fields with copy to clipboard action
 
 ## Features
 
@@ -25,7 +21,7 @@ See [Requirements](https://github.com/mooxphp/moox/blob/main/docs/Requirements.m
 ## Installation
 
 ```bash
-composer require moox/skeleton
+composer require moox/clipboard
 php artisan moox:install
 ```
 
@@ -33,7 +29,7 @@ Curious what the install command does? See [Installation](https://github.com/moo
 
 ## Screenshot
 
-![Moox Skeleton](https://github.com/mooxphp/moox/raw/main/art/screenshots/skeleton.jpg)
+![Moox clipboard](https://github.com/mooxphp/moox/raw/main/art/screenshots/clipboard.jpg)
 
 ## Get Started
 
